@@ -18,6 +18,6 @@ Built with a clean and user-friendly interface, Develop a fully functional e-com
 
 
 ###  Technologies Used
-Html :
-Css :
-Javascript :
+Html :       
+Css :      
+Javascript :      
